@@ -1,5 +1,5 @@
 # Deco
-Generative art with p5.js
+Generative art with p5.js<br><br>
 Sample images:
 <a href="https://raw.githubusercontent.com/matthewterhune/Deco/master/present1.png">One</a>
 <a href="https://raw.githubusercontent.com/matthewterhune/Deco/master/present3.png">Two</a>
